@@ -1,0 +1,12 @@
+{
+  "name": "jujue-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^1.16.7"
+  }
+}
